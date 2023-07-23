@@ -1,0 +1,29 @@
+Entregables
+
+Generá los archivos entregables con lo planteado en la consigna.
+
+Accedé a tu cuenta de Google Drive. Si no tenés una, necesitarás crear una en https://drive.google.com.
+
+Una vez que estés en Google Drive, vas a ver un botón que dice "+ Nuevo" en la parte superior izquierda de la pantalla. Hacé clic en él.
+
+Se desplegará un menú con varias opciones. Elegí la opción "Subir archivo".
+
+Buscá en tu computadora los archivos que querés subir  y seleccionalos.
+
+Hacé clic en "Abrir" y tus archivos comenzarán a subirse a Google Drive. Dependiendo del tamaño de tus archivos y de tu conexión a internet, esto puede tardar unos minutos.
+
+Una vez que tus archivos estén subidos, vas a poder verlos en tu Google Drive. Hacé clic derecho en el archivo y luego en "Obtener enlace de compartir". Asegurate de cambiar la configuración a "Cualquier persona con el enlace puede ver", para que los evaluadores puedan acceder a tus archivos.
+
+Finalmente, copiá el enlace proporcionado y pegalo en el bloque "Proyectos" que se encuentra en la página principal del curso en la plataforma.
+
+
+bullet
+Parte 1: Programa 
+
+
+bullet
+Parte 2: archivo en formato .ipynb + el dataset utilizado
+
+
+bullet
+Parte 3: archivo .doc o .pdf (queda a criterio del estudiante)
